@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/betty
+ln -s /bin/ls --ls--
