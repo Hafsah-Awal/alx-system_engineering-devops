@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls --ls--
+mv /tmp/betty /tmp/my_first_directory
